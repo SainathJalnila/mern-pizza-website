@@ -1,0 +1,28 @@
+.pizza-name{
+    font-size:20px
+}
+.pizza-img {
+    height: 250px;
+    width: 250px;
+    margin-left: 35px;
+}
+.var-qan-sec{
+    display: inline-block;
+}
+.qan-sec-2{
+    float: right;
+}
+.sec-display-name{
+    text-transform: capitalize;
+    font-weight: 600;
+}    
+.sec-display-drop {
+    font-size: 17px;
+    height: 30px;
+    width: 120px;
+}
+
+.modal-img{
+    height: 200px;
+
+}

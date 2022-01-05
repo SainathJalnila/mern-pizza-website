@@ -1,0 +1,17 @@
+
+.admin-panel li {
+    list-style-type: none;
+    display: inline-block;
+    color:white;
+    padding: 5px 10px;
+    
+
+}
+.admin-panel li a{
+    
+    color:white !important;
+    text-decoration: none;
+    text-transform: uppercase !important;
+
+    
+}
